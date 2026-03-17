@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# React
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
